@@ -10,7 +10,7 @@ public:
         for(auto &p:freq){
             uniq.push_back(p.first);
         }
-        
+        sort(uniq.begin(),uniq.end());
         for(int i=0;i<uniq.size();i++){
             for(int j=i+1;j<uniq.size();j++){
                 int x = uniq[i];
