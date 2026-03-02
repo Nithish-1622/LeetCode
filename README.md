@@ -47,3 +47,11 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | 🟢 Easy | [C++](./3718-smallest-missing-multiple-of-k/3718-smallest-missing-multiple-of-k.cpp) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping) | 🟢 Easy | [C++](./3838-weighted-word-mapping/3838-weighted-word-mapping.cpp) |
 | 3852 | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies) | 🟢 Easy | [C++](./3852-smallest-pair-with-different-frequencies/) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0263-ugly-number](https://github.com/Nithish-1622/LeetCode/tree/main/0263-ugly-number/) | Easy |
+<!---LeetCode Topics End-->
