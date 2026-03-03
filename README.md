@@ -54,10 +54,12 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/Nithish-1622/LeetCode/tree/main/0263-ugly-number/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
