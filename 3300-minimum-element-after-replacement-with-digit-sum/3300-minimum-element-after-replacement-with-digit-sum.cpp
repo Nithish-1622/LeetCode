@@ -11,7 +11,7 @@ public:
             }
             nums1.push_back(r);
         }
-        sort(nums1.begin(),nums1.end());
-        return nums1[0];
+        return *min_element(nums1.begin(),nums1.end());
+        
     }
 };
