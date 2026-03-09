@@ -1,30 +1,20 @@
-
 class Solution {
 public:
     int smallestBalancedIndex(vector<int>& nums) {
         const int n = nums.size();
-        int r = -1, left = 0, right = n - 1;
-        while (left <= right) {
-            const int mid = (left + right) >> 1;
-            long long s= 0;
-            
-            for (int i = 0; i < mid; ++i) {
-                s += nums[i];
+        vector<long long> p(n);
+        for (int i = 1; i < n; ++i) {
+            p[i] = p[i - 1] + nums[i - 1];
+        }
+        long long v = 1;
+        int r = -1;
+        for (int i = n - 1;; --i) {
+            if (p[i] == v) {
+                r = i;
             }
-            __int128 p = 1;
-            for (int i = mid + 1; i < n && p <= s; ++i) {
-                p *= nums[i];
-            }
-            if (s == p) {
-                r = mid;
-            }
-            if (s >= p) {
-                right = mid - 1;
-            } else {
-                left = mid + 1;
-            }
+            if (i == 0 || v > p[i - 1] / nums[i]) break;
+            v *= nums[i];
         }
         return r;
-        
     }
 };
