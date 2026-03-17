@@ -1,11 +1,11 @@
 class Solution {
 public:
-    int trailingZeroes(int n) {
-        int c = 0;
-        while(n>0){
-            n/=5;
-            c+=n;
+    int trailingZeroes(int num) {
+        int count = 0;
+        while(num>0){
+            num/=5;
+            count+=num;
         }
-        return c;
+        return count;
     }
 };
