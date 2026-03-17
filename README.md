@@ -53,6 +53,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Nithish-1622/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0263-ugly-number](https://github.com/Nithish-1622/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Nithish-1622/LeetCode/tree/main/2235-add-two-integers/) | Easy |
