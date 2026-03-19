@@ -110,6 +110,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0206-reverse-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Prefix Sum
