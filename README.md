@@ -158,4 +158,5 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Nithish-1622/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 <!---LeetCode Topics End-->
