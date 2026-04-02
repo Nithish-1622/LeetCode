@@ -180,4 +180,8 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 <!---LeetCode Topics End-->
