@@ -65,6 +65,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nithish-1622/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0137-single-number-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
@@ -153,6 +154,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nithish-1622/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0148-sort-list](https://github.com/Nithish-1622/LeetCode/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -175,6 +177,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nithish-1622/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
