@@ -184,4 +184,5 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1789-primary-department-for-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 <!---LeetCode Topics End-->
