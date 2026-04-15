@@ -4,9 +4,7 @@ public:
         unordered_map<char, int> freq;
 
         int left = 0;
-
         int max_freq = 0;
-
         int max_len = 0;
 
         for (int right = 0; right < s.length(); right++) {
@@ -18,7 +16,7 @@ public:
             }
             max_len = max(max_len, right - left + 1);
         }
-        
+
         return max_len;
     }
 };
