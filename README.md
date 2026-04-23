@@ -65,6 +65,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nithish-1622/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0137-single-number-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
@@ -151,6 +152,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Nithish-1622/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
