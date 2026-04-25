@@ -70,6 +70,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0137-single-number-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nithish-1622/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
@@ -127,6 +128,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Greedy
@@ -156,6 +158,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0141-linked-list-cycle](https://github.com/Nithish-1622/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,5 +213,6 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 <!---LeetCode Topics End-->
