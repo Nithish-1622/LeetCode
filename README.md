@@ -61,6 +61,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish-1622/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithish-1622/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nithish-1622/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithish-1622/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
