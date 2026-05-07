@@ -6,13 +6,14 @@ public:
         int right = n-1;
         int maxWater = 0;
         while (left<right){
-            maxWater = max(maxWater, (right-left)* min(height[left], height[right]));
-
             if(height[left]<height[right]){
                 left++;
             }else{
                 right--;
             }
+
+            maxWater = max(maxWater, (right-left)* min(height[left], height[right]));
+
         }
         return maxWater;
 
