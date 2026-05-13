@@ -195,6 +195,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0137-single-number-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Nithish-1622/LeetCode/tree/main/0201-bitwise-and-of-numbers-range/) | Medium |
 | [0338-counting-bits](https://github.com/Nithish-1622/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0461-hamming-distance](https://github.com/Nithish-1622/LeetCode/tree/main/0461-hamming-distance/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
