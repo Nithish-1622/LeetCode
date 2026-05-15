@@ -60,6 +60,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0258-add-digits](https://github.com/Nithish-1622/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Nithish-1622/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [2235-add-two-integers](https://github.com/Nithish-1622/LeetCode/tree/main/2235-add-two-integers/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Nithish-1622/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish-1622/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
