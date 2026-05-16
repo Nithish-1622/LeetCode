@@ -75,6 +75,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0011-container-with-most-water](https://github.com/Nithish-1622/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nithish-1622/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0137-single-number-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0137-single-number-ii/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0164-maximum-gap](https://github.com/Nithish-1622/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -229,6 +230,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nithish-1622/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
