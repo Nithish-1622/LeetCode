@@ -84,6 +84,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nithish-1622/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithish-1622/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -120,6 +121,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0006-zigzag-conversion](https://github.com/Nithish-1622/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nithish-1622/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithish-1622/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish-1622/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -170,6 +172,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
