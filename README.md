@@ -121,6 +121,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nithish-1622/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Nithish-1622/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nithish-1622/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -172,6 +173,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0142-linked-list-cycle-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nithish-1622/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
