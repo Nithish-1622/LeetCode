@@ -73,6 +73,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0001-two-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nithish-1622/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Nithish-1622/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nithish-1622/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0137-single-number-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -231,6 +232,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nithish-1622/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
