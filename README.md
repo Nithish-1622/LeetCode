@@ -128,6 +128,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithish-1622/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish-1622/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -193,6 +194,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nithish-1622/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3121-count-the-number-of-special-characters-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
