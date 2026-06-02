@@ -95,6 +95,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithish-1622/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0912-sort-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nithish-1622/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nithish-1622/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +182,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0876-middle-of-the-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +244,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
