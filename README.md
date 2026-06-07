@@ -135,6 +135,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithish-1622/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Nithish-1622/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
+| [3019-number-of-changing-keys](https://github.com/Nithish-1622/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish-1622/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Simulation
