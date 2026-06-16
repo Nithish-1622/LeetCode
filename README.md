@@ -63,6 +63,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2235-add-two-integers](https://github.com/Nithish-1622/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nithish-1622/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Nithish-1622/LeetCode/tree/main/2652-sum-multiples/) | Easy |
+| [2769-find-the-maximum-achievable-number](https://github.com/Nithish-1622/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Nithish-1622/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
