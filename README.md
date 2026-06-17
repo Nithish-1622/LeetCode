@@ -61,6 +61,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0263-ugly-number](https://github.com/Nithish-1622/LeetCode/tree/main/0263-ugly-number/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Nithish-1622/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nithish-1622/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Nithish-1622/LeetCode/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nithish-1622/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Nithish-1622/LeetCode/tree/main/2652-sum-multiples/) | Easy |
@@ -94,6 +95,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Nithish-1622/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nithish-1622/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
