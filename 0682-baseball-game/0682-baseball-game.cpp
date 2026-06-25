@@ -3,7 +3,7 @@ public:
     int calPoints(vector<string>& o) {
         int n = o.size();
         stack<int> st;
-        int sc = 0;
+        int score = 0;
         for(string x : o){
             if (x=="D"){
                 st.push(2*st.top());
@@ -22,9 +22,9 @@ public:
         if (st.empty())
             return 0;
         while (!st.empty()) {
-            sc += st.top();
+            score += st.top();
             st.pop();
         }
-        return sc;
+        return score;
     }
 };
