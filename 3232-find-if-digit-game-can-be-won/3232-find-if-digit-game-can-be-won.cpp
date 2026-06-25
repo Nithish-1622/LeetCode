@@ -13,9 +13,7 @@ public:
             }
         }
 
-        if (s == d)
-            return false;
-        else
-            return true;
+        if (s == d) return false;
+        else return true;
     }
 };
