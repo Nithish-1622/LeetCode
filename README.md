@@ -109,6 +109,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithish-1622/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Nithish-1622/LeetCode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nithish-1622/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Nithish-1622/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -289,6 +290,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Nithish-1622/LeetCode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Tree
