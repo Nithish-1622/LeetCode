@@ -5,12 +5,12 @@ public:
         return compute_gcd(b,a%b);
     }  
     int gcdOfOddEvenSums(int n) {
-        int o=0;
-        int e=0;
+        int odd=0;
+        int even=0;
         for(int i=1;i<=2*n;i++){
-            if(i%2==0) e+=i;
-            else  o+=i;
+            if(i%2==0) even+=i;
+            else  odd+=i;
         }
-        return compute_gcd(e,o);
+        return compute_gcd(even,odd);
     }
 };
