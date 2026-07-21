@@ -160,6 +160,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0657-robot-return-to-origin](https://github.com/Nithish-1622/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Nithish-1622/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Nithish-1622/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nithish-1622/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithish-1622/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
@@ -244,6 +245,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0142-linked-list-cycle-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nithish-1622/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 ## Stack
@@ -316,6 +318,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
