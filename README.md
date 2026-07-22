@@ -94,6 +94,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0164-maximum-gap](https://github.com/Nithish-1622/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Nithish-1622/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0912-sort-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0912-sort-an-array/) | Medium |
@@ -142,6 +143,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0148-sort-list](https://github.com/Nithish-1622/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Nithish-1622/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/Nithish-1622/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0912-sort-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -243,6 +245,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0001-two-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0141-linked-list-cycle](https://github.com/Nithish-1622/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0217-contains-duplicate](https://github.com/Nithish-1622/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
