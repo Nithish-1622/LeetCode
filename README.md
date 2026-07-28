@@ -155,6 +155,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nithish-1622/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Nithish-1622/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Nithish-1622/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -243,6 +244,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nithish-1622/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Nithish-1622/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nithish-1622/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -326,6 +328,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Nithish-1622/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
