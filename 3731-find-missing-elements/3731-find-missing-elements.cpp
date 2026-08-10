@@ -5,7 +5,10 @@ public:
         int maxi = *max_element(nums.begin(),nums.end());
         vector<int> ans;
         for(int i=mini;i<=maxi;i++){
-            if(find(nums.begin(),nums.end(),i)==nums.end()){
+            if(find(nums.begin(),nums.end(),i)!=nums.end()){
+                continue;
+            }
+            else {
                 ans.push_back(i);
             }
         }
