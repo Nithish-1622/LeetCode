@@ -123,6 +123,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2574-left-and-right-sum-differences](https://github.com/Nithish-1622/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Nithish-1622/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithish-1622/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Nithish-1622/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -159,6 +160,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithish-1622/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nithish-1622/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -266,6 +268,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nithish-1622/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithish-1622/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Stack
