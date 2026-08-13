@@ -2,20 +2,20 @@ class Solution {
 public:
     int missingInteger(vector<int>& nums) {
         int n = nums.size();
-        int sequentialSum = nums[0];
+        int seq = nums[0];
         for(int i = 1; i < n; i++){
             if(nums[i] == nums[i - 1] + 1)
-                sequentialSum += nums[i];
+                seq += nums[i];
             else
                 break;
         }
 
-        vector<bool> hashTable(1276, false);
+        vector<bool> hT(1276, false);
         for(int num : nums)
-            hashTable[num] = true;
-        while(hashTable[sequentialSum])
-            sequentialSum++;
+            hT[num] = true;
+        while(hT[seq])
+            seq++;
 
-        return sequentialSum;
+        return seq;
     }
 };
