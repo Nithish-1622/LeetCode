@@ -133,12 +133,14 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [3731-find-missing-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish-1622/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
+| [4024-nearest-available-drone](https://github.com/Nithish-1622/LeetCode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nithish-1622/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [4024-nearest-available-drone](https://github.com/Nithish-1622/LeetCode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
