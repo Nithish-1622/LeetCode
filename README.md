@@ -115,6 +115,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nithish-1622/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
+| [2079-watering-plants](https://github.com/Nithish-1622/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithish-1622/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
@@ -196,6 +197,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0258-add-digits](https://github.com/Nithish-1622/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Nithish-1622/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [2079-watering-plants](https://github.com/Nithish-1622/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish-1622/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish-1622/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
