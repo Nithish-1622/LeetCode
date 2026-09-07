@@ -134,6 +134,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish-1622/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3904-smallest-stable-index-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 | [4024-nearest-available-drone](https://github.com/Nithish-1622/LeetCode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Enumeration
@@ -229,6 +230,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1732-find-the-highest-altitude](https://github.com/Nithish-1622/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nithish-1622/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3904-smallest-stable-index-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
