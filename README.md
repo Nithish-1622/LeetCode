@@ -72,6 +72,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2769-find-the-maximum-achievable-number](https://github.com/Nithish-1622/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Nithish-1622/LeetCode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nithish-1622/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3024-type-of-triangle](https://github.com/Nithish-1622/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Nithish-1622/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nithish-1622/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -127,6 +128,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2942-find-words-containing-character](https://github.com/Nithish-1622/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithish-1622/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3024-type-of-triangle](https://github.com/Nithish-1622/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Nithish-1622/LeetCode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Nithish-1622/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -168,6 +170,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nithish-1622/LeetCode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3024-type-of-triangle](https://github.com/Nithish-1622/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nithish-1622/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
@@ -403,4 +406,8 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1927-sum-game](https://github.com/Nithish-1622/LeetCode/tree/main/1927-sum-game/) | Medium |
+## Polygons
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3024-type-of-triangle](https://github.com/Nithish-1622/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 <!---LeetCode Topics End-->
