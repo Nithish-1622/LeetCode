@@ -292,6 +292,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Nithish-1622/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0155-min-stack](https://github.com/Nithish-1622/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 ## Divide and Conquer
@@ -410,4 +411,8 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3024-type-of-triangle](https://github.com/Nithish-1622/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0155-min-stack](https://github.com/Nithish-1622/LeetCode/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
