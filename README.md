@@ -65,6 +65,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0989-add-to-array-form-of-integer](https://github.com/Nithish-1622/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Nithish-1622/LeetCode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Nithish-1622/LeetCode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1486-xor-operation-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1927-sum-game](https://github.com/Nithish-1622/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2235-add-two-integers](https://github.com/Nithish-1622/LeetCode/tree/main/2235-add-two-integers/) | Easy |
@@ -324,6 +325,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0338-counting-bits](https://github.com/Nithish-1622/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/Nithish-1622/LeetCode/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0461-hamming-distance](https://github.com/Nithish-1622/LeetCode/tree/main/0461-hamming-distance/) | Easy |
+| [1486-xor-operation-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
