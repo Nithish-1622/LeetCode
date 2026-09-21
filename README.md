@@ -108,6 +108,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithish-1622/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/Nithish-1622/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Nithish-1622/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -169,6 +170,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0217-contains-duplicate](https://github.com/Nithish-1622/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithish-1622/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Nithish-1622/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0912-sort-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -268,6 +270,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0905-sort-array-by-parity](https://github.com/Nithish-1622/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Nithish-1622/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
