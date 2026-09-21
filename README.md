@@ -196,6 +196,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Nithish-1622/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Nithish-1622/LeetCode/tree/main/0709-to-lower-case/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/Nithish-1622/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nithish-1622/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -216,6 +217,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0657-robot-return-to-origin](https://github.com/Nithish-1622/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [2079-watering-plants](https://github.com/Nithish-1622/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Nithish-1622/LeetCode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -272,6 +274,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0148-sort-list](https://github.com/Nithish-1622/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nithish-1622/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Nithish-1622/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -314,6 +317,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/Nithish-1622/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
