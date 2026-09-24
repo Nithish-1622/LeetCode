@@ -69,6 +69,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1927-sum-game](https://github.com/Nithish-1622/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2235-add-two-integers](https://github.com/Nithish-1622/LeetCode/tree/main/2235-add-two-integers/) | Easy |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Nithish-1622/LeetCode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Nithish-1622/LeetCode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Nithish-1622/LeetCode/tree/main/2652-sum-multiples/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/Nithish-1622/LeetCode/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -158,6 +159,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
+| [2443-sum-of-number-and-its-reverse](https://github.com/Nithish-1622/LeetCode/tree/main/2443-sum-of-number-and-its-reverse/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nithish-1622/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [4024-nearest-available-drone](https://github.com/Nithish-1622/LeetCode/tree/main/4024-nearest-available-drone/) | Easy |
 ## Number Theory
