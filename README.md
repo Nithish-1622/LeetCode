@@ -395,6 +395,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0035-search-insert-position](https://github.com/Nithish-1622/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0374-guess-number-higher-or-lower](https://github.com/Nithish-1622/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nithish-1622/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
@@ -503,4 +504,8 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Nithish-1622/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Nithish-1622/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
