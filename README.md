@@ -127,6 +127,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Nithish-1622/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Nithish-1622/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nithish-1622/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -459,6 +460,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nithish-1622/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Nithish-1622/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
