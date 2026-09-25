@@ -113,6 +113,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithish-1622/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nithish-1622/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Nithish-1622/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/Nithish-1622/LeetCode/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -234,6 +235,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2079-watering-plants](https://github.com/Nithish-1622/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Nithish-1622/LeetCode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -456,6 +458,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nithish-1622/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
