@@ -141,6 +141,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nithish-1622/LeetCode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nithish-1622/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Nithish-1622/LeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Nithish-1622/LeetCode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Nithish-1622/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
@@ -462,6 +463,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Nithish-1622/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [2643-row-with-maximum-ones](https://github.com/Nithish-1622/LeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
