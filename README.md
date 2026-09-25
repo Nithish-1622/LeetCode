@@ -382,6 +382,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/Nithish-1622/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -400,6 +401,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [2236-root-equals-sum-of-children](https://github.com/Nithish-1622/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
