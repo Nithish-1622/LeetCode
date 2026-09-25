@@ -126,6 +126,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0989-add-to-array-form-of-integer](https://github.com/Nithish-1622/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/Nithish-1622/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Nithish-1622/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Nithish-1622/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -267,6 +268,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Nithish-1622/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nithish-1622/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Nithish-1622/LeetCode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Nithish-1622/LeetCode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
