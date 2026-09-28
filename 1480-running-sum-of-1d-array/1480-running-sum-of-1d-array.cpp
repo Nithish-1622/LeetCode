@@ -3,12 +3,11 @@ public:
     vector<int> runningSum(vector<int>& nums) {
         int sum = 0;
         int n = nums.size();
-        vector<int> ans;
-        for (int i=0;i<n;i++){
-            sum+= nums[i];
-            ans.push_back(sum);
+        vector<int> run(n,0);
+        run[0] = nums[0];
+        for (int i=1;i<n;i++){
+            run[i] = run[i-1]+nums[i];
         }
-    return ans;
-        
+    return run;
     }
 };
