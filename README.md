@@ -116,6 +116,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithish-1622/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
+| [0724-find-pivot-index](https://github.com/Nithish-1622/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nithish-1622/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
@@ -274,6 +275,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Nithish-1622/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0724-find-pivot-index](https://github.com/Nithish-1622/LeetCode/tree/main/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Nithish-1622/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
