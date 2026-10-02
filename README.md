@@ -219,6 +219,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0005-longest-palindromic-substring](https://github.com/Nithish-1622/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Nithish-1622/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Nithish-1622/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nithish-1622/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Nithish-1622/LeetCode/tree/main/0242-valid-anagram/) | Easy |
@@ -400,6 +401,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nithish-1622/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Nithish-1622/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Nithish-1622/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -554,5 +556,10 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nithish-1622/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
