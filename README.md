@@ -54,6 +54,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Nithish-1622/LeetCode/tree/main/0007-reverse-integer/) | Medium |
+| [0012-integer-to-roman](https://github.com/Nithish-1622/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/Nithish-1622/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Nithish-1622/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
@@ -219,6 +220,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithish-1622/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Nithish-1622/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Nithish-1622/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
+| [0012-integer-to-roman](https://github.com/Nithish-1622/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithish-1622/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
@@ -346,6 +348,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nithish-1622/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/Nithish-1622/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithish-1622/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Nithish-1622/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Nithish-1622/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
