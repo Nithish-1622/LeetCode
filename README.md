@@ -141,6 +141,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1732-find-the-highest-altitude](https://github.com/Nithish-1622/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Nithish-1622/LeetCode/tree/main/1827-minimum-operations-to-make-the-array-increasing/) | Easy |
+| [1861-rotating-the-box](https://github.com/Nithish-1622/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2079-watering-plants](https://github.com/Nithish-1622/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Nithish-1622/LeetCode/tree/main/2105-watering-plants-ii/) | Medium |
@@ -326,6 +327,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0948-bag-of-tokens](https://github.com/Nithish-1622/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Nithish-1622/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1861-rotating-the-box](https://github.com/Nithish-1622/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Nithish-1622/LeetCode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
@@ -505,6 +507,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Nithish-1622/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1861-rotating-the-box](https://github.com/Nithish-1622/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/Nithish-1622/LeetCode/tree/main/2643-row-with-maximum-ones/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
