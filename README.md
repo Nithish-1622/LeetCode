@@ -233,6 +233,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0657-robot-return-to-origin](https://github.com/Nithish-1622/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0709-to-lower-case](https://github.com/Nithish-1622/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Nithish-1622/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nithish-1622/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -378,6 +379,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
+| [0856-score-of-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Nithish-1622/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nithish-1622/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Divide and Conquer
@@ -565,6 +567,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0856-score-of-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nithish-1622/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
