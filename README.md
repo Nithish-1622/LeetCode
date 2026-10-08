@@ -231,6 +231,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0383-ransom-note](https://github.com/Nithish-1622/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Nithish-1622/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Nithish-1622/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Nithish-1622/LeetCode/tree/main/0709-to-lower-case/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0856-score-of-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -303,6 +304,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nithish-1622/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Nithish-1622/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nithish-1622/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithish-1622/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0948-bag-of-tokens](https://github.com/Nithish-1622/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
@@ -378,6 +380,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0042-trapping-rain-water](https://github.com/Nithish-1622/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/Nithish-1622/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Nithish-1622/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
@@ -420,6 +423,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nithish-1622/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0338-counting-bits](https://github.com/Nithish-1622/LeetCode/tree/main/0338-counting-bits/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Nithish-1622/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Nithish-1622/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -570,6 +574,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Nithish-1622/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithish-1622/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nithish-1622/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
