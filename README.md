@@ -230,6 +230,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Nithish-1622/LeetCode/tree/main/0383-ransom-note/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Nithish-1622/LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/Nithish-1622/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Nithish-1622/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nithish-1622/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/Nithish-1622/LeetCode/tree/main/0709-to-lower-case/) | Easy |
@@ -583,4 +584,16 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nithish-1622/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Nithish-1622/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Nithish-1622/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Nithish-1622/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
