@@ -238,6 +238,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0856-score-of-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Nithish-1622/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithish-1622/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nithish-1622/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nithish-1622/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -447,6 +448,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0374-guess-number-higher-or-lower](https://github.com/Nithish-1622/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Nithish-1622/LeetCode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Nithish-1622/LeetCode/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Nithish-1622/LeetCode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Nithish-1622/LeetCode/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
@@ -485,6 +487,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0904-fruit-into-baskets](https://github.com/Nithish-1622/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Nithish-1622/LeetCode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -596,8 +599,33 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Nithish-1622/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Nithish-1622/LeetCode/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Suffix Automaton
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Suffix Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
 <!---LeetCode Topics End-->
