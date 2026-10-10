@@ -103,6 +103,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0049-group-anagrams](https://github.com/Nithish-1622/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Nithish-1622/LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0056-merge-intervals](https://github.com/Nithish-1622/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nithish-1622/LeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0128-longest-consecutive-sequence](https://github.com/Nithish-1622/LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -190,6 +191,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Nithish-1622/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/Nithish-1622/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/Nithish-1622/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0164-maximum-gap](https://github.com/Nithish-1622/LeetCode/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -628,4 +630,8 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/Nithish-1622/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
