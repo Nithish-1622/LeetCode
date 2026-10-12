@@ -476,6 +476,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1667-fix-names-in-a-table](https://github.com/Nithish-1622/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1873-calculate-special-bonus](https://github.com/Nithish-1622/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
 | [1907-count-salary-categories](https://github.com/Nithish-1622/LeetCode/tree/main/1907-count-salary-categories/) | Medium |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Nithish-1622/LeetCode/tree/main/1978-employees-whose-manager-left-the-company/) | Easy |
 ## Counting
