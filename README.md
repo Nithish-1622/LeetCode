@@ -473,6 +473,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0626-exchange-seats](https://github.com/Nithish-1622/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Nithish-1622/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Nithish-1622/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
+| [1517-find-users-with-valid-e-mails](https://github.com/Nithish-1622/LeetCode/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Nithish-1622/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
