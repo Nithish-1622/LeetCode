@@ -470,6 +470,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0180-consecutive-numbers](https://github.com/Nithish-1622/LeetCode/tree/main/0180-consecutive-numbers/) | Medium |
 | [0183-customers-who-never-order](https://github.com/Nithish-1622/LeetCode/tree/main/0183-customers-who-never-order/) | Easy |
 | [0184-department-highest-salary](https://github.com/Nithish-1622/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
+| [0196-delete-duplicate-emails](https://github.com/Nithish-1622/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0610-triangle-judgement](https://github.com/Nithish-1622/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/Nithish-1622/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Nithish-1622/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
