@@ -479,6 +479,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1527-patients-with-a-condition](https://github.com/Nithish-1622/LeetCode/tree/main/1527-patients-with-a-condition/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/Nithish-1622/LeetCode/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/Nithish-1622/LeetCode/tree/main/1789-primary-department-for-each-employee/) | Easy |
 | [1795-rearrange-products-table](https://github.com/Nithish-1622/LeetCode/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/Nithish-1622/LeetCode/tree/main/1873-calculate-special-bonus/) | Easy |
