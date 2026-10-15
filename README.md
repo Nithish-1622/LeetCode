@@ -476,6 +476,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0184-department-highest-salary](https://github.com/Nithish-1622/LeetCode/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/Nithish-1622/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Nithish-1622/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Nithish-1622/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0610-triangle-judgement](https://github.com/Nithish-1622/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/Nithish-1622/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1164-product-price-at-a-given-date](https://github.com/Nithish-1622/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
