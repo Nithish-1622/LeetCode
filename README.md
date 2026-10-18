@@ -138,6 +138,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0977-squares-of-a-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Nithish-1622/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1046-last-stone-weight](https://github.com/Nithish-1622/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nithish-1622/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/Nithish-1622/LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -524,6 +525,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0239-sliding-window-maximum](https://github.com/Nithish-1622/LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Nithish-1622/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0912-sort-an-array/) | Medium |
+| [1046-last-stone-weight](https://github.com/Nithish-1622/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 ## Bucket Sort
