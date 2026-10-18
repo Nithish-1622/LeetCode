@@ -173,6 +173,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Nithish-1622/LeetCode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nithish-1622/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nithish-1622/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish-1622/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -221,6 +222,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [3024-type-of-triangle](https://github.com/Nithish-1622/LeetCode/tree/main/3024-type-of-triangle/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Nithish-1622/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nithish-1622/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish-1622/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
@@ -329,6 +331,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nithish-1622/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Nithish-1622/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Nithish-1622/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Nithish-1622/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Nithish-1622/LeetCode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
