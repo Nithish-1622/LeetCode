@@ -453,6 +453,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Nithish-1622/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Nithish-1622/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -462,6 +463,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Nithish-1622/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Nithish-1622/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0278-first-bad-version](https://github.com/Nithish-1622/LeetCode/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Nithish-1622/LeetCode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -476,6 +478,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Nithish-1622/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/Nithish-1622/LeetCode/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -680,4 +683,8 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nithish-1622/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Nithish-1622/LeetCode/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
