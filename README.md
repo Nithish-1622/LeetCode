@@ -486,6 +486,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0196-delete-duplicate-emails](https://github.com/Nithish-1622/LeetCode/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Nithish-1622/LeetCode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Nithish-1622/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0607-sales-person](https://github.com/Nithish-1622/LeetCode/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/Nithish-1622/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/Nithish-1622/LeetCode/tree/main/0626-exchange-seats/) | Medium |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nithish-1622/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
