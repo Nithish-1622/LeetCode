@@ -488,6 +488,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Nithish-1622/LeetCode/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0610-triangle-judgement](https://github.com/Nithish-1622/LeetCode/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/Nithish-1622/LeetCode/tree/main/0626-exchange-seats/) | Medium |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Nithish-1622/LeetCode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/Nithish-1622/LeetCode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Nithish-1622/LeetCode/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/Nithish-1622/LeetCode/tree/main/1484-group-sold-products-by-the-date/) | Easy |
