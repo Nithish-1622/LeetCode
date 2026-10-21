@@ -267,6 +267,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [3019-number-of-changing-keys](https://github.com/Nithish-1622/LeetCode/tree/main/3019-number-of-changing-keys/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Nithish-1622/LeetCode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish-1622/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
