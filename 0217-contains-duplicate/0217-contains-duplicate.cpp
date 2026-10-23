@@ -1,13 +1,14 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_set<int> mp;
-        for(int x : nums){
-            if (mp.count(x) > 0) {
+        unordered_set<int> mpl;
+        for (auto x : nums){
+            if(mpl.count(x)){
                 return true;
             }
-            mp.insert(x);
+            mpl.insert(x);
         }
         return false;
     }
+
 };
