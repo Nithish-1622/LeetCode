@@ -121,6 +121,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0303-range-sum-query-immutable](https://github.com/Nithish-1622/LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Nithish-1622/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
+| [0455-assign-cookies](https://github.com/Nithish-1622/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0500-keyboard-row](https://github.com/Nithish-1622/LeetCode/tree/main/0500-keyboard-row/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish-1622/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
@@ -210,6 +211,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0347-top-k-frequent-elements](https://github.com/Nithish-1622/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/Nithish-1622/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [0455-assign-cookies](https://github.com/Nithish-1622/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish-1622/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithish-1622/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nithish-1622/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -328,6 +330,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Nithish-1622/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/Nithish-1622/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nithish-1622/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Nithish-1622/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithish-1622/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -354,6 +357,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0148-sort-list](https://github.com/Nithish-1622/LeetCode/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [0455-assign-cookies](https://github.com/Nithish-1622/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0844-backspace-string-compare](https://github.com/Nithish-1622/LeetCode/tree/main/0844-backspace-string-compare/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Nithish-1622/LeetCode/tree/main/0881-boats-to-save-people/) | Medium |
@@ -690,6 +694,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Nithish-1622/LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/Nithish-1622/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
