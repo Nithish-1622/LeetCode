@@ -122,6 +122,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0347-top-k-frequent-elements](https://github.com/Nithish-1622/LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0414-third-maximum-number](https://github.com/Nithish-1622/LeetCode/tree/main/0414-third-maximum-number/) | Easy |
 | [0500-keyboard-row](https://github.com/Nithish-1622/LeetCode/tree/main/0500-keyboard-row/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/Nithish-1622/LeetCode/tree/main/0594-longest-harmonious-subsequence/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Nithish-1622/LeetCode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
@@ -278,6 +279,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0054-spiral-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0258-add-digits](https://github.com/Nithish-1622/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0415-add-strings](https://github.com/Nithish-1622/LeetCode/tree/main/0415-add-strings/) | Easy |
+| [0566-reshape-the-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Nithish-1622/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0682-baseball-game](https://github.com/Nithish-1622/LeetCode/tree/main/0682-baseball-game/) | Easy |
 | [0735-asteroid-collision](https://github.com/Nithish-1622/LeetCode/tree/main/0735-asteroid-collision/) | Medium |
@@ -579,6 +581,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Nithish-1622/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+| [0566-reshape-the-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Nithish-1622/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
