@@ -9,7 +9,6 @@ public:
                 mac = max(mac,c);
             }else{
                 c = 0;
-                mac= max(mac,c);
             }
         }
         return mac;
