@@ -58,6 +58,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0048-rotate-image](https://github.com/Nithish-1622/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Nithish-1622/LeetCode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/Nithish-1622/LeetCode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0189-rotate-array](https://github.com/Nithish-1622/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/Nithish-1622/LeetCode/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/Nithish-1622/LeetCode/tree/main/0263-ugly-number/) | Easy |
@@ -114,6 +115,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0137-single-number-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0137-single-number-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0164-maximum-gap](https://github.com/Nithish-1622/LeetCode/tree/main/0164-maximum-gap/) | Medium |
+| [0189-rotate-array](https://github.com/Nithish-1622/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/Nithish-1622/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/Nithish-1622/LeetCode/tree/main/0217-contains-duplicate/) | Easy |
@@ -359,6 +361,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0141-linked-list-cycle](https://github.com/Nithish-1622/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nithish-1622/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0189-rotate-array](https://github.com/Nithish-1622/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0455-assign-cookies](https://github.com/Nithish-1622/LeetCode/tree/main/0455-assign-cookies/) | Easy |
