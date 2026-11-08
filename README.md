@@ -264,6 +264,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0917-reverse-only-letters](https://github.com/Nithish-1622/LeetCode/tree/main/0917-reverse-only-letters/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithish-1622/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1044-longest-duplicate-substring](https://github.com/Nithish-1622/LeetCode/tree/main/1044-longest-duplicate-substring/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nithish-1622/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nithish-1622/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Nithish-1622/LeetCode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nithish-1622/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -429,6 +430,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0856-score-of-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0856-score-of-parentheses/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Nithish-1622/LeetCode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nithish-1622/LeetCode/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nithish-1622/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Nithish-1622/LeetCode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nithish-1622/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 ## Divide and Conquer
