@@ -247,6 +247,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0020-valid-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Nithish-1622/LeetCode/tree/main/0049-group-anagrams/) | Medium |
+| [0071-simplify-path](https://github.com/Nithish-1622/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nithish-1622/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Nithish-1622/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
@@ -422,6 +423,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Nithish-1622/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Nithish-1622/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0071-simplify-path](https://github.com/Nithish-1622/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0155-min-stack](https://github.com/Nithish-1622/LeetCode/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Nithish-1622/LeetCode/tree/main/0678-valid-parenthesis-string/) | Medium |
