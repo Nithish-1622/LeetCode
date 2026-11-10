@@ -1,63 +1,34 @@
 class Solution {
 public:
     bool backspaceCompare(string s, string t) {
-
-        int i = s.size() - 1;
-        int j = t.size() - 1;
-
-        int skipS = 0;
-        int skipT = 0;
-
-        while (i >= 0 || j >= 0) {
-
-            // Process s until valid character
-            while (i >= 0) {
-
-                if (s[i] == '#') {
-                    skipS++;
-                    i--;
-                }
-                else if (skipS > 0) {
-                    skipS--;
-                    i--;
-                }
-                else {
-                    break;
-                }
+        stack<int> st1;
+        stack<int> st2;
+        for (char ch : s){
+            if(ch=='#'){
+                if(!st1.empty())
+                    st1.pop();
+            }else{
+            st1.push(ch);
             }
-
-            // Process t until valid character
-            while (j >= 0) {
-
-                if (t[j] == '#') {
-                    skipT++;
-                    j--;
-                }
-                else if (skipT > 0) {
-                    skipT--;
-                    j--;
-                }
-                else {
-                    break;
-                }
-            }
-
-            // Compare
-            if (i >= 0 && j >= 0) {
-
-                if (s[i] != t[j])
-                    return false;
-
-            }
-            else if (i >= 0 || j >= 0) {
-
-                return false;
-            }
-
-            i--;
-            j--;
         }
-
-        return true;
+        for (char ch : t){
+            if( ch=='#'){
+                if(!st2.empty())
+                    st2.pop();
+            }else{
+            st2.push(ch);
+            }
+        }
+        string ans1 = "";
+        string ans2 = "";
+        while(!st1.empty()){
+            ans1+=st1.top();
+            st1.pop();
+        }
+        while(!st2.empty()){
+            ans2+=st2.top();
+            st2.pop();
+        }
+        return ans1 == ans2;
     }
 };
