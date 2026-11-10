@@ -249,6 +249,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0049-group-anagrams](https://github.com/Nithish-1622/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/Nithish-1622/LeetCode/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/Nithish-1622/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0242-valid-anagram](https://github.com/Nithish-1622/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Nithish-1622/LeetCode/tree/main/0383-ransom-note/) | Easy |
@@ -364,6 +365,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0141-linked-list-cycle](https://github.com/Nithish-1622/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Nithish-1622/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/Nithish-1622/LeetCode/tree/main/0148-sort-list/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Nithish-1622/LeetCode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/Nithish-1622/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/Nithish-1622/LeetCode/tree/main/0344-reverse-string/) | Easy |
