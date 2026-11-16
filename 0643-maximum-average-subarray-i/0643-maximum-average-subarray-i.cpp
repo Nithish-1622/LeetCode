@@ -12,6 +12,7 @@ public:
             window+=nums[i]-nums[i-k];
             maxSum = max(window,maxSum);
         }
-        return maxSum/k;
+        double avg = maxSum/k;
+        return avg;
     }
 };
