@@ -155,6 +155,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1534-count-good-triplets](https://github.com/Nithish-1622/LeetCode/tree/main/1534-count-good-triplets/) | Easy |
 | [1550-three-consecutive-odds](https://github.com/Nithish-1622/LeetCode/tree/main/1550-three-consecutive-odds/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Nithish-1622/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nithish-1622/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Nithish-1622/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Nithish-1622/LeetCode/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
@@ -275,6 +276,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nithish-1622/LeetCode/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Nithish-1622/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Nithish-1622/LeetCode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Nithish-1622/LeetCode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Nithish-1622/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Nithish-1622/LeetCode/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1927-sum-game](https://github.com/Nithish-1622/LeetCode/tree/main/1927-sum-game/) | Medium |
