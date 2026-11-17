@@ -283,6 +283,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [1927-sum-game](https://github.com/Nithish-1622/LeetCode/tree/main/1927-sum-game/) | Medium |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Nithish-1622/LeetCode/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Nithish-1622/LeetCode/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/2710-remove-trailing-zeros-from-a-string/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Nithish-1622/LeetCode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Nithish-1622/LeetCode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -304,6 +305,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2079-watering-plants](https://github.com/Nithish-1622/LeetCode/tree/main/2079-watering-plants/) | Medium |
 | [2105-watering-plants-ii](https://github.com/Nithish-1622/LeetCode/tree/main/2105-watering-plants-ii/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Nithish-1622/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2974-minimum-number-game](https://github.com/Nithish-1622/LeetCode/tree/main/2974-minimum-number-game/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Nithish-1622/LeetCode/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nithish-1622/LeetCode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
