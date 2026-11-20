@@ -148,6 +148,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0948-bag-of-tokens](https://github.com/Nithish-1622/LeetCode/tree/main/0948-bag-of-tokens/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/Nithish-1622/LeetCode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/Nithish-1622/LeetCode/tree/main/0989-add-to-array-form-of-integer/) | Easy |
+| [0994-rotting-oranges](https://github.com/Nithish-1622/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Nithish-1622/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Nithish-1622/LeetCode/tree/main/1046-last-stone-weight/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/Nithish-1622/LeetCode/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
@@ -625,6 +626,7 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | [0054-spiral-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Nithish-1622/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [0994-rotting-oranges](https://github.com/Nithish-1622/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/Nithish-1622/LeetCode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Nithish-1622/LeetCode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1861-rotating-the-box](https://github.com/Nithish-1622/LeetCode/tree/main/1861-rotating-the-box/) | Medium |
@@ -750,4 +752,5 @@ Each problem has its own dedicated directory, named in the format `XXXX-problem-
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nithish-1622/LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0994-rotting-oranges](https://github.com/Nithish-1622/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
